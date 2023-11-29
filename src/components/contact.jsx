@@ -36,7 +36,7 @@ const Contact = () => {
                         </li>
                         <li>
                           <span class="ion-email"></span>{" "}
-                          sudhir.samantaray33@gmail.com
+                          sudhirsamantaray33@gmail.com
                         </li>
                       </ul>
                     </div>
